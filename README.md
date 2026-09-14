@@ -32,24 +32,23 @@
 
 ## 🛠 Featured Projects
 
-### 💸 [AI Revenue Recovery Engine](#) — *Node.js · TypeScript · PostgreSQL · Redis · BullMQ*
+### 💸 [AI Revenue Recovery Engine](https://revenue-recovery-engine-vert.vercel.app/) — *Node.js · TypeScript · PostgreSQL · Redis · BullMQ*
 Event-driven backend that automatically recovers failed payment transactions via personalized, AI-generated SMS.
 - Redis-backed BullMQ pipeline decouples high-volume API traffic from LLM processing for **100% uptime**
 - Fault-tolerant async workers with exponential backoff and multi-model LLM failover (**Groq → Gemini**)
 - Real-time Next.js dashboard with optimistic UI and ACID-compliant PostgreSQL micro-transactions
 
-### 🕵️ [Project Sentinel](#) — *Next.js · TypeScript · Tailwind CSS · PostgreSQL · Clerk · Gemini API*
+### 🕵️ [Project Sentinel](https://project-sentinel-mu.vercel.app/) — *Next.js · TypeScript · Tailwind CSS · PostgreSQL · Clerk · Gemini API*
 A full-stack technical interview simulation platform with a live, in-browser coding sandbox.
 - AI interviewer powered by the Gemini API streams real-time code evaluation & complexity analysis
 - Scalable data layer on Neon PostgreSQL + Clerk Auth, tracking analytical performance metrics
-
-> Replace the `(#)` links above with your **Live Demo** / **GitHub repo** links for each project.
 
 <br/>
 
 ## 💼 Experience
 
 **Software Engineer Intern — Brahm Shala** *(Sep – Nov 2025, Remote)*
+<br/>
 Built a React.js/Tailwind scheduling platform that eliminated cross-timezone double-bookings, saving 10+ hours of manual coordination weekly. Secured the admin dashboard with a JWT-validated RBAC frontend across 15+ protected routes, and cut redundant network requests by 40% using TanStack Query.
 
 <br/>
@@ -99,14 +98,6 @@ Built a React.js/Tailwind scheduling platform that eliminated cross-timezone dou
 - 🏅 **AlgoUniversity Test Fellowship** — Top 20% in Stage-01 out of 20,000+ participants (DSA)
 
 <br/>
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=tokyonight&hide_border=true" />
-</p>
-
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
