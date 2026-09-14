@@ -98,10 +98,5 @@ Built a React.js/Tailwind scheduling platform that eliminated cross-timezone dou
 - 🏅 **AlgoUniversity Test Fellowship** — Top 20% in Stage-01 out of 20,000+ participants (DSA)
 
 <br/>
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2017kartik&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<br/>
 
 <p align="center"><i>Thanks for stopping by — always open to interesting collaborations ⚡</i></p>
